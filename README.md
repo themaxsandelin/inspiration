@@ -14,4 +14,4 @@ A curated list of resources online to inspire you create more.
 
 ## Movies 
 
-- [The Social Network](link) - Movies YouTube @ YouTube
+- [The Social Network](https://www.youtube.com/watch?v=mseanDhl3zA) - Movies YouTube @ YouTube
