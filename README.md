@@ -14,4 +14,4 @@ A curated list of resources online to inspire you create more.
 
 ## Movies 
 
-- [The Social Network](https://www.youtube.com/watch?v=mseanDhl3zA) - Movies YouTube @ YouTube
+- [The Social Network](http://www.imdb.com/title/tt1285016/) - A story of FaceBook @ IMBb
