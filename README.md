@@ -10,3 +10,8 @@ A curated list of resources online to inspire you create more.
 - [I am a Developer - Amy Dickens](https://www.youtube.com/watch?v=EkWzOTsKvz8) - GitHub @ YouTube
 - [I am a Developer - Lisa Lang](https://www.youtube.com/watch?v=WVQe1ZE7FtU) - GitHub @ YouTube
 - [I am a Developer - Mario Ponce](https://www.youtube.com/watch?v=2Hjodq3JdoI) - GitHub @ YouTube
+
+
+## Movies 
+
+- [The Social Network](http://www.imdb.com/title/tt1285016/) - A story of FaceBook @ IMBb
