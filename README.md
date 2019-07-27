@@ -13,7 +13,7 @@ A curated list of resources online to inspire you to create more.
 - [Building the Future - Tiffani Ashley Bell](https://www.youtube.com/watch?v=T7ZQhooMMDo) - GitHub @ YouTube
 - [Building the Future - Julius Sweetland, OptiKey](https://www.youtube.com/watch?v=kDwZ1_RpkFM) - GitHub @ YouTube
 - [Building the Future - Jamica “afroDJiak” El, Creative Technologist](https://www.youtube.com/watch?v=9TzIHpQfBsw) - GitHub @ YouTube
-- [WWDC 2017 — New Beginnings](https://www.youtube.com/watch?v=cJAGqDYmW1o) — Apple @ YouTube
+- [WWDC 2016 — New Beginnings](https://www.youtube.com/watch?v=VcjWQVwa7qg) — Apple @ YouTube
 - [WWDC 2018 — Source Code](https://www.youtube.com/watch?v=Nq6ZqgozPF8) — Apple @ YouTube
 - [WWDC 2019 — Goodnight Developers](https://www.youtube.com/watch?v=fa5p19APgd8) — Apple @ YouTube
 
