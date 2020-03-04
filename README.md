@@ -19,6 +19,7 @@ A curated list of resources online to inspire you to create more.
 
 ## Documentaries
 
+- [Vue.js: The Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI) - Honeypot @ YouTube
 - [GraphQL: The Documentary](https://www.youtube.com/watch?v=783ccP__No8) - Honeypot @ YouTube
 - [Ember.js: The Documentary](https://www.youtube.com/watch?v=Cvz-9ccflKQ) - Honeypot @ YouTube
 - [Elixir: A Mini-Documentary](https://www.youtube.com/watch?v=lxYFOM3UJzo) - Honeypot @ YouTube
